@@ -3,7 +3,7 @@
     "name": "spr_arvore",
     "path": "sprites/spr_arvore/spr_arvore.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
